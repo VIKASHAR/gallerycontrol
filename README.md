@@ -161,16 +161,10 @@ public class MainActivity extends Activity {
 
 ## OUTPUT
 
-![IMG-20240411-WA0011](https://github.com/AnnBlessy/gallerycontrol/assets/119477835/ff8b0cf4-4e9a-46f0-8aad-e3d4d3d5c095)
-
-![IMG-20240411-WA0010](https://github.com/AnnBlessy/gallerycontrol/assets/119477835/9f66bc8a-4532-40ac-9822-be6f1dcfde02)
-
-![IMG-20240411-WA0009](https://github.com/AnnBlessy/gallerycontrol/assets/119477835/e0e025ba-2362-4cf5-9532-a50b6c231289)
-
-![IMG-20240411-WA0008](https://github.com/AnnBlessy/gallerycontrol/assets/119477835/732eefce-1256-4a68-ba5c-efe5143bdaf9)
-
-![IMG-20240411-WA0007](https://github.com/AnnBlessy/gallerycontrol/assets/119477835/d15bc7b8-d344-4beb-8458-c12e5225a331)
-
+![Screenshot 2024-05-07 180923](https://github.com/VIKASHAR/gallerycontrol/assets/119405655/bf903ff5-f37e-42d3-87ac-40e13b12ac81)
+![Screenshot 2024-05-07 180931](https://github.com/VIKASHAR/gallerycontrol/assets/119405655/7c791153-e0a2-44ea-bd7b-4a6612f66105)
+![Screenshot 2024-05-07 180942](https://github.com/VIKASHAR/gallerycontrol/assets/119405655/2dde8029-4e67-4a0f-aee6-668b21c2223e)
+![Screenshot 2024-05-07 180950](https://github.com/VIKASHAR/gallerycontrol/assets/119405655/21ab5f0a-0635-4361-b990-ad406fb39ca7)
 
 
 ## RESULT
